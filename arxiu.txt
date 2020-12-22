@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hola caracola
 un, dos, tres
+=======
+hola que tal
+>>>>>>> branch1
